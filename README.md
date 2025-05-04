@@ -17,7 +17,7 @@ Este é o meu portfólio pessoal, criado com HTML e CSS puros. Nele apresento um
 
 - Navegação entre seções: Home, Sobre mim e Currículo 
 - Design responsivo: adapta-se a telas de celular, tablets e desktop
-- Ícones personalizados com [Ionicons](https://ionic.io/ionicons)
+- Ícones personalizados com [chatgpt](https://chatgpt.com/)
 
 ## 🗂️ Estrutura do Projeto
 
