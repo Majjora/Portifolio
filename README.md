@@ -21,16 +21,11 @@ Este é o meu portfólio pessoal, criado com HTML e CSS puros. Nele apresento um
 
 ## 🗂️ Estrutura do Projeto
 
-Portifolio/
-├── index.html
-├── about.html
-├── cv.html
-├── styles/
-  ├── style.css
-├── assets/
-│ ├── imagens (logos, avatar, fundo)
-│ 
-└── README.md
+- `index.html` - Página inicial com sistema de menu.
+- `about.html` - Página sobre mim.
+- `cv.html` - Página sobe meu Currículo.
+- `styles/` - Arquivos de estilo (CSS).
+- `assets/` - Imagens utilizadas no site.
 
 ## 🚀 Melhorias Futuras
 
@@ -42,7 +37,7 @@ Portifolio/
 ## 📬 Contato
 
 - ✉️ Email: chustakcorreia.felipe@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](www.linkedin.com/in/felipechustak)  
+- 💼 LinkedIn: [www.linkedin.com/in/felipechustak](www.linkedin.com/in/felipechustak)  
 - 🧑‍💻 GitHub: [github.com/Majjora](https://github.com/Majjora)
 
 ---
