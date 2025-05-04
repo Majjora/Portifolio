@@ -23,7 +23,7 @@ Este é o meu portfólio pessoal, criado com HTML e CSS puros. Nele apresento um
 
 - `index.html` - Página inicial com sistema de menu.
 - `about.html` - Página sobre mim.
-- `cv.html` - Página sobe meu Currículo.
+- `cv.html` - Página com informações do meu Currículo.
 - `styles/` - Arquivos de estilo (CSS).
 - `assets/` - Imagens utilizadas no site.
 
